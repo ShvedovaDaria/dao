@@ -1,3 +1,5 @@
+package issue14;
+
 class User {
     private String name;
     private int age;
